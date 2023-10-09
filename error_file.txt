@@ -1,1 +1,2 @@
+nano error_file.txt
 
